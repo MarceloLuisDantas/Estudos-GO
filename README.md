@@ -25,11 +25,7 @@ Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em l
 E em algumas langs como C e C++, o gerenciamento de memoria é manual, o que torna o trabalho mais dificil, porem um topico para estudar isso deve ser adicionado nesse caso.
 
 ```
-Alguns projeto pequenos podem ser feitos
-durante o percurso, porem recomendado a
-criação de um projeto ao final que englobe 
-todos os aspectos, ou ao menos os mais
-importantes.
+Alguns projeto pequenos podem ser feitos durante o percurso, porem recomendado a criação de um projeto ao final que englobe todos os aspectos, ou ao menos os mais importantes.
 ```
 
 ### :cyclone: **Intermeio ao entendimento**
@@ -49,9 +45,9 @@ Em :file_folder: **EDD** é onde estrutra de dados e algoritmos é estudado. Aqu
     * Ordenação, busca, analise, complexidade, etc...
 
 Aqui é onde o seu codigo vai deixar de ser um codigo simples, para um codigo que ira ser mais eficiente e mais bem estruturado. 
-```
-Essa seção é especialmente indispensavel para quem deseja trabalhar com Games ou Graficos(OpenGX, Vulkan, DirectX...), pois saber polpar ciclos de execução pode fazer seu FPS passar de 24 em um codigo não otimizado, para 60FPS apos estudo em otimização.
-```
+
+:warning: Essa seção é especialmente indispensavel para quem deseja trabalhar com Games ou Graficos(OpenGX, Vulkan, DirectX...), pois saber polpar ciclos de execução pode fazer seu FPS passar de 24 em um codigo não otimizado, para 60FPS apos estudo em otimização.
+
 Apos completar essa seção, você pode ser capaz de construir praticamente qualquer coisa, pois você passou tempo o suficiente aprendo não so os topicos listados, mas também a como encontrar a solução para seus problemas. Assim caso precise  lidar com algo que ainda não conhece, não sera dificil para você aprender.
 
 ### :tada: **Parabens**
