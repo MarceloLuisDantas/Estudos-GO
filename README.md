@@ -8,17 +8,17 @@ Esse rep foi criado com intuito de organizar uma possivel pipeline padrão de es
 ### :bread::coffee: **Café com Pão de uma lang**
 O primeiro estagio é o :file_folder: **BASICO** onde nele nos lidamos com: 
 
-* **Loops** -  :o: *toda lang possui*
-* **Funções** -  :o: *toda lang possui*
-* **Listas** -  :o: *toda lang possui*
-  * **Mapemanto** - :x: *depende da lang*
-* **Arrays e Slice** - :x: *depende da lang*
-* **Estruturas** -  :o: *toda lang possui algo similar*
-* **Objetos** -  :x: *depende da lang*
-* **Ponteiros** -  :x: *depende da lang*
-* **Texto** -  :o: *toda lang possui*
+* **1º Loops** -  :o: *toda lang possui*
+* **2º Funções** -  :o: *toda lang possui*
+* **3º Listas** -  :o: *toda lang possui*
+  * ***Mapemanto*** - :x: *depende da lang*
+* **5º Dicionarios** - :x: *depende da lang*
+* **6º Estruturas** -  :o: *toda lang possui algo similar*
+* **7º Objetos** -  :x: *depende da lang*
+* **8º Ponteiros** -  :x: *depende da lang*
+* **9º Texto** -  :o: *toda lang possui*
 
-Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em linguagens funcionais Objetos podem ser implementados de alguma forma. Ou langs como Go que não possuem generics, logo não possuem funtores para serem mapeados, ainda pode ser simulado com uso de for. 
+Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em linguagens funcionais Objetos podem ser implementados de alguma forma. Ou langs como Go que não possuem generics, logo não possuem funtores para serem mapeados, ainda podem ser simulado com uso de for. 
 
 É nessa etapa onde você ira se encontrar com os principais problemas de um novato, desde como retornar listas de listas ou não conseguir subir os arquivos para o GitHub. É recomendado a comunicação com comunidades, sejá por grupos no Telegram quanto pessoalmente com outros programadores mais experientes.
 
@@ -33,7 +33,7 @@ A partir desse ponto tudo pode depender muito sobre o que você esta estudando o
 
 Em :file_folder: **WEB** é analise como se faz para subir um sevidor e lidar com API's, alem de lidar com banco de dados. A analise pode levar em conta os diferentes frameworks disponiveis para a linguagem em especifico.
 
-Alternativas para Web seria trabalhar com GUI caso seu interesse sejá Desktop Apps, ou Games. Nesse entermeio é fazer coisas "avançadas" de forma simples, mesmo que o resultado não sejá eficiente ou utilizavel.
+Alternativas para Web seria trabalhar com **GUI** caso seu interesse sejá *Desktop Apps*, ou *Games*. Durante esse periodo, o objetivo é fazer coisas "avançadas" de forma simples, mesmo que o resultado não sejá eficiente ou utilizavel.
 
 ### :exclamation: **Avançado(mas n tanto)**
 Este momento pode vir antes do anterior caso seu interesse sejá ser o melhor programador do mundo, e sejá seu sonho ser o vencedor de competições de algoritmos avançados. 
@@ -46,7 +46,7 @@ Em :file_folder: **EDD** é onde estrutra de dados e algoritmos é estudado. Aqu
 
 Aqui é onde o seu codigo vai deixar de ser um codigo simples, para um codigo que ira ser mais eficiente e mais bem estruturado. 
 
-:warning: Essa seção é especialmente indispensavel para quem deseja trabalhar com Games ou Graficos(OpenGX, Vulkan, DirectX...), pois saber polpar ciclos de execução pode fazer seu FPS passar de 24 em um codigo não otimizado, para 60FPS apos estudo em otimização.
+:warning: Essa seção é especialmente indispensavel para quem deseja trabalhar com Games ou Graficos(*OpenGX, Vulkan, DirectX...*), pois saber polpar ciclos de execução pode fazer seu FPS passar de 24 em um codigo não otimizado, para 60FPS apos estudos em otimização.
 
 Apos completar essa seção, você pode ser capaz de construir praticamente qualquer coisa, pois você passou tempo o suficiente aprendo não so os topicos listados, mas também a como encontrar a solução para seus problemas. Assim caso precise  lidar com algo que ainda não conhece, não sera dificil para você aprender.
 
