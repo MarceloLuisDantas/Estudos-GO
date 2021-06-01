@@ -18,7 +18,7 @@ O primeiro estagio é o :file_folder: **BASICO** onde nele nos lidamos com:
 * **Ponteiros** -  :x: *depende da lang*
 * **Texto** -  :o: *toda lang possui*
 
-Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em linguagens funcionais Objetos podem ser implementados de alguma forma. 
+Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em linguagens funcionais Objetos podem ser implementados de alguma forma. Ou langs como Go que não possuem generics, logo não possuem funtores para serem mapeados, ainda pode ser simulado com uso de for. 
 
 É nessa etapa onde você ira se encontrar com os principais problemas de um novato, desde como retornar listas de listas ou não conseguir subir os arquivos para o GitHub. É recomendado a comunicação com comunidades, sejá por grupos no Telegram quanto pessoalmente com outros programadores mais experientes.
 
