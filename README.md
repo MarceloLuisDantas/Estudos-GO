@@ -25,7 +25,11 @@ Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em l
 E em algumas langs como C e C++, o gerenciamento de memoria é manual, o que torna o trabalho mais dificil, porem um topico para estudar isso deve ser adicionado nesse caso.
 
 ```
-Alguns projeto pequenos podem ser feitos durante o percurso, porem recomendado a criação de um projeto ao final que englobe todos os aspectos, ou ao menos os mais importantes.
+Alguns projeto pequenos podem ser feitos
+durante o percurso, porem recomendado a
+criação de um projeto ao final que englobe 
+todos os aspectos, ou ao menos os mais
+importantes.
 ```
 
 ### :cyclone: **Intermeio ao entendimento**
