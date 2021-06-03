@@ -18,7 +18,7 @@ O primeiro estagio é o :file_folder: **BASICO** onde nele nos lidamos com:
 * **8º Ponteiros** -  :x: *depende da lang*
 * **9º Texto** -  :o: *toda lang possui*
 
-Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em linguagens funcionais Objetos podem ser implementados de alguma forma. Ou langs como Go que não possuem generics, logo não possuem funtores para serem mapeados, ainda podem ser simulado com uso de for. 
+Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em linguagens funcionais Objetos podem ser implementados de alguma forma. Ou langs como Go que não possuem generics *(data de escrita 2/06/2021)*, logo não possuem funtores para serem mapeados, ainda podem ser simulado com uso de for. 
 
 É nessa etapa onde você ira se encontrar com os principais problemas de um novato, desde como retornar listas de listas ou não conseguir subir os arquivos para o GitHub. É recomendado a comunicação com comunidades, sejá por grupos no Telegram quanto pessoalmente com outros programadores mais experientes.
 
@@ -49,6 +49,14 @@ Aqui é onde o seu codigo vai deixar de ser um codigo simples, para um codigo qu
 :warning: Essa seção é especialmente indispensavel para quem deseja trabalhar com Games ou Graficos(*OpenGX, Vulkan, DirectX...*), pois saber polpar ciclos de execução pode fazer seu FPS passar de 24 em um codigo não otimizado, para 60FPS apos estudos em otimização.
 
 Apos completar essa seção, você pode ser capaz de construir praticamente qualquer coisa, pois você passou tempo o suficiente aprendo não so os topicos listados, mas também a como encontrar a solução para seus problemas. Assim caso precise  lidar com algo que ainda não conhece, não sera dificil para você aprender.
+
+### :mag: **Explorando modulos e bibliotecas**
+
+Uma das regras da programação é não tentar recriar a roda, e em quase todas as langs o uso de libs é indispensavel. Sejá em Node onde temos o NPM para impotar libs, ou em Go que já temos bascimento todos os pacotes que precisamos em usa Lib padrão. Por isso o :file_folder: **Explorando Pacotes** foi criado, o que tera dentro dele sera puramente dependedo da linguagem, pode ser manipualmento de string, processamento de dados ou ate mesmo IA ou ML. Essa é a seção que é dificil dizer uma sequencia, apenas recomendo perguntar a um Dev experiente na tecnologia que escolhida sobre as libs mais usadas. Ou entrar em um projeto famoso no GitHub que faça o que vc gosta e ver o que ele usa.
+
+Saber o que temos e não temos já implementado em uma lang é um conhecimento que ira tanto polpar tempo durante o desenvolvimento quanto ira polpar a necessidade de resolver problemas que já foram resolvidos.
+
+:warning: Claro que se você quiser fazer tudo do zero para aprender como as coisas funcionam por baixo você tem toda a liberdade do mundo, e é algo ate recomendado.
 
 ### :tada: **Parabens**
 Parabens, agora você pode se dizer um programador com nivel Junior. A partir de agora não é apenas estudo que ira te fazer evoluir, a pratica vai lhe mostrar problemas que você não tinha encontrado antes, e ira te fazer ir atraz de como resolver esses problemas.
