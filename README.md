@@ -58,10 +58,11 @@ Saber o que temos e não temos já implementado em uma lang é um conhecimento q
 
 Depois de já ter entendido os conceitos e ter estudado m pouco, provavelmente você ira ter algumas ideias durante esse processo, e tudo bem você começar a realizar testes, sejá pequenos projetos ou coisas um pouco maiores.
 
-E é para isso qeu o :file_folder: **TESTES** foi feito, nele você ira colocar seus testes, e ideias que você for tendo durante esse percurso. É impotnate deixar tudo dentro de um diretorio unico, para manter codigo de teste, e codigo de estudo e consulta separados.
+E é para isso qeu o :file_folder: **TESTES** foi feito, nele você ira colocar seus testes, e ideias que você for tendo durante esse percurso. É impotnate deixar tudo dentro de um diretorio unico, para manter codigo de teste, e codigo de estudo e consulta separados. 
 
 ### :tada: **Parabens**
 Parabens, agora você pode se dizer um programador com nivel Junior. A partir de agora não é apenas estudo que ira te fazer evoluir, a pratica vai lhe mostrar problemas que você não tinha encontrado antes, e ira te fazer ir atraz de como resolver esses problemas.
 
 Não pense que o seu estudo acabou, muito pelo contrario, essa linha de estudo é para se tornar experiente em uma linguagem ou ecosistema. Porem ainda falta conhecimento de mais ferramentes como Dockers, Computação destribuida, Gerenciamento de Memoria, entre outros conceitos que dividem um dev Junior de um Senior.
 
+###### **&copy;** TODOS OS DIREITORS RESERVADOS A HUMANIDADE 1912 - AO INFINITO E ALEM
