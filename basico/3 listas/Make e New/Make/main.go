@@ -1,3 +1,5 @@
+// COMO MAKE FUNCIONA E O QUE ELE FAZ
+
 package main
 
 import "fmt"

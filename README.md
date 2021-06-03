@@ -24,10 +24,6 @@ Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em l
 
 E em algumas langs como C e C++, o gerenciamento de memoria é manual, o que torna o trabalho mais dificil, porem um topico para estudar isso deve ser adicionado nesse caso.
 
-```
-Alguns projeto pequenos podem ser feitos durante o percurso, porem recomendado a criação de um projeto ao final que englobe todos os aspectos, ou ao menos os mais importantes.
-```
-
 ### :cyclone: **Intermeio ao entendimento**
 A partir desse ponto tudo pode depender muito sobre o que você esta estudando ou qual lang vc esta estudando. Porem um caminhom a seguir e seguir para parte Web, trabalhando com API e subindo alguns servidores. 
 
@@ -35,7 +31,7 @@ Em :file_folder: **WEB** é analise como se faz para subir um sevidor e lidar co
 
 Alternativas para Web seria trabalhar com **GUI** caso seu interesse sejá *Desktop Apps*, ou *Games*. Durante esse periodo, o objetivo é fazer coisas "avançadas" de forma simples, mesmo que o resultado não sejá eficiente ou utilizavel.
 
-### :exclamation: **Avançado(mas n tanto)**
+### :exclamation: **Avançado(mas não tanto)**
 Este momento pode vir antes do anterior caso seu interesse sejá ser o melhor programador do mundo, e sejá seu sonho ser o vencedor de competições de algoritmos avançados. 
 
 Em :file_folder: **EDD** é onde estrutra de dados e algoritmos é estudado. Aqui é englobado:
@@ -57,6 +53,12 @@ Uma das regras da programação é não tentar recriar a roda, e em quase todas 
 Saber o que temos e não temos já implementado em uma lang é um conhecimento que ira tanto polpar tempo durante o desenvolvimento quanto ira polpar a necessidade de resolver problemas que já foram resolvidos.
 
 :warning: Claro que se você quiser fazer tudo do zero para aprender como as coisas funcionam por baixo você tem toda a liberdade do mundo, e é algo ate recomendado.
+
+### :game_die: Colocando em "pratica"
+
+Depois de já ter entendido os conceitos e ter estudado m pouco, provavelmente você ira ter algumas ideias durante esse processo, e tudo bem você começar a realizar testes, sejá pequenos projetos ou coisas um pouco maiores.
+
+E é para isso qeu o :file_folder: **TESTES** foi feito, nele você ira colocar seus testes, e ideias que você for tendo durante esse percurso. É impotnate deixar tudo dentro de um diretorio unico, para manter codigo de teste, e codigo de estudo e consulta separados.
 
 ### :tada: **Parabens**
 Parabens, agora você pode se dizer um programador com nivel Junior. A partir de agora não é apenas estudo que ira te fazer evoluir, a pratica vai lhe mostrar problemas que você não tinha encontrado antes, e ira te fazer ir atraz de como resolver esses problemas.

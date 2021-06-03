@@ -1,3 +1,5 @@
+// FUNÇÕES NORMAIS DE FUNÇÕES COMO VALORES
+
 package main
 
 import (

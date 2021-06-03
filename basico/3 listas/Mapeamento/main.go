@@ -1,3 +1,5 @@
+// SIMULANDO MAPEAVEIS ENQUANTO N TEM GENERCIS
+
 package main
 
 import "fmt"

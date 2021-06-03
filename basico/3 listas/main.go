@@ -1,3 +1,5 @@
+// SLICES DE ARRAYS EM GO
+
 package main
 
 import "fmt"

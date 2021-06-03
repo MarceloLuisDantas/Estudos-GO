@@ -1,3 +1,5 @@
+// FUNÇÕES QUE RECEBEM DIFERENTE QUANTIA DE VALROES
+
 package main
 
 import "fmt"
