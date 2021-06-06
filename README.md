@@ -15,8 +15,7 @@ O primeiro estagio é o :file_folder: **BASICO** onde nele nos lidamos com:
 * **5º Dicionarios** - :x: *depende da lang*
 * **6º Estruturas** -  :o: *toda lang possui algo similar*
 * **7º Objetos** -  :x: *depende da lang*
-* **8º Ponteiros** -  :x: *depende da lang*
-* **9º Texto** -  :o: *toda lang possui*
+* **8º Texto** -  :o: *toda lang possui*
 
 Todos esses conceitos de aplicam em todas as langs de algum modo, ate mesmo em linguagens funcionais Objetos podem ser implementados de alguma forma. Ou langs como Go que não possuem generics *(data de escrita 2/06/2021)*, logo não possuem funtores para serem mapeados, ainda podem ser simulado com uso de for. 
 
